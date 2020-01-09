@@ -812,3 +812,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [low_img]: https://front-end-checklist.now.sh/low.svg
 [medium_img]: https://front-end-checklist.now.sh/medium.svg
 [high_img]: https://front-end-checklist.now.sh/high.svg
+[![Run on Repl.it](https://repl.it/badge/github/farisubuntu/Front-End-Checklist)](https://repl.it/github/farisubuntu/Front-End-Checklist)
